@@ -1,0 +1,15 @@
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\bin\Debug\net6.0\HomeWork.exe
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\bin\Debug\net6.0\HomeWork.deps.json
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\bin\Debug\net6.0\HomeWork.runtimeconfig.json
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\bin\Debug\net6.0\HomeWork.dll
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\bin\Debug\net6.0\HomeWork.pdb
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\obj\Debug\net6.0\HomeWork.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\obj\Debug\net6.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\obj\Debug\net6.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\obj\Debug\net6.0\HomeWork.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\obj\Debug\net6.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\obj\Debug\net6.0\HomeWork.dll
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\obj\Debug\net6.0\refint\HomeWork.dll
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\obj\Debug\net6.0\HomeWork.pdb
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\obj\Debug\net6.0\HomeWork.genruntimeconfig.cache
+C:\Users\Aydan\Desktop\HomeWork\ConsoleApp1\obj\Debug\net6.0\ref\HomeWork.dll
